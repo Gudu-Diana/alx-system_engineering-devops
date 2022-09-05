@@ -1,2 +1,2 @@
 
-a script that displays directory contents in long format
+a script that displays current directory contents including hidden ones
