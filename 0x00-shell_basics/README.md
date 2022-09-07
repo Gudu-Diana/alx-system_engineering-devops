@@ -1,2 +1,2 @@
 
-a script that deletes the directory myfirstdirectory
+a script that changes working directory to the previous one
