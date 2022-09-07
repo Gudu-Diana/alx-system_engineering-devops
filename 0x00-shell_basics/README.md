@@ -1,2 +1,2 @@
 
-a script that deletes the file betty
+a script that deletes the directory myfirstdirectory
