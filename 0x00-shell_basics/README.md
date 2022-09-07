@@ -1,2 +1,2 @@
 
-a script that creates a symbolic link to /bin/ls
+a script that copies all HTML files from the current working directory to the parent working directory
