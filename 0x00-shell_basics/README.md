@@ -1,2 +1,2 @@
 
-a script that prints the type of file named
+a script that creates a symbolic link to /bin/ls
