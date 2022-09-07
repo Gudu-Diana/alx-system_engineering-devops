@@ -1,2 +1,2 @@
 
-a script that creates a directory in tmp directory
+a script that moves the file betty
