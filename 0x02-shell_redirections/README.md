@@ -1,1 +1,1 @@
-a script that writes into file a result of a command
+a script that displays the last line of a file
