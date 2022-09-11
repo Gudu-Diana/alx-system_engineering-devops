@@ -1,1 +1,1 @@
-a script that displays content of two files
+a script that displays the last ten lines of passwd files
