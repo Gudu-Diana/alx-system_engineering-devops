@@ -1,1 +1,1 @@
-Display all lines of the file /etc/ssh/ssh config starting with a letter.
+Script that replaces all characters A and c from input to Z and e respectively.
