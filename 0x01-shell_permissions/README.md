@@ -1,1 +1,1 @@
-a script that sets the mode of the file hello
+a script that prints all the groups the current user is part of
